@@ -1,7 +1,3 @@
-#Authors:
-#RichieSjt https://github.com/RichieSjt
-#EduardoHerreraJ https://github.com/EduardoHerreraJ
-
 from micro import Microprocessor
 from process import Process
 from table_row import generate_row

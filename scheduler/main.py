@@ -1,3 +1,7 @@
+# Authors:
+# RichieSjt https://github.com/RichieSjt
+# EduardoHerreraJ https://github.com/EduardoHerreraJ
+
 import tkinter as tk
 from tkinter import filedialog
 import scheduler
