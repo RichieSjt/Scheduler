@@ -7,9 +7,9 @@ The scheduler will generate a table where detailed information about each proces
 
 The processes must be defined in a txt file. The file shall be defined as follows:
 - Each line indicates a process with its corresponding data separated by spaces.
-- The first data is the process name, must be unique.
-- The second data is the process execution time.
-- The third data is the time at which the process was sent to the scheduler.
+- The first element is the process name, must be unique.
+- The second element is the process execution time.
+- The third element is the time at which the process was sent to the scheduler.
 
 To visualize the graphical user interface run the ```main.py``` file with Python, input the required data in the fields and click on the generate table button.
 The ```test1.txt``` and ```test2.txt``` files are examples of defined processes.
