@@ -1,5 +1,5 @@
 # Scheduler
-An operating system scheduler simulator developed as a project for the Operatng Systems course.
+An operating system scheduler simulator developed as a project for the Operating Systems course.
 
 ## Functionality
 **A program that reads from a text file processes that will enter a scheduler simulator. 
